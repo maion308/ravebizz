@@ -1,0 +1,21 @@
+Michael Ion
+
+Human Interface Guidelines
+
+	Apple has developed the Human Interface Guidelines, in order to have some form of conformity. These rules help create a certain signature look and appeal that apple wants to bring to their user experience. If you are planning on deploying apps to the apple store, you will need to follow some pretty extensive guidelines.
+
+	Apple has many different devices with many different screen sizes. Making sure the user has a positive experience is crucial. Making sure the proper content is displayed in the proper way depending on the device they are using. As developers, it is our job to make sure that all the guidelines are met.
+	App Architecture covers guidelines on how to launch a device as quickly and seamless as possible, creating a great first impression. Giving the appearance of sat, reliable, seamless draws a user to your product. So make sure to launch in the right orientation, avoid asking for too much information, keep design simple and solid, avoid artistry at all cost. Apple covers guidelines for just about all aspects of a user walkthrough and how they should experience, from Launch, onboarding, loading, modality, sheet presentation, fullscreen, navigation and setting. These combined assure the user is having a great experience in a certain way that complies with apple philosophy. These include asking users for permission before accessing their information, helping to navigate and having the navigation experience in a simple step by step direction.
+
+	User interaction touches on events and how user interacts with an app. Whether by 3D Touch, haptics, gestures, drag and drop, data entry, apple stylus and much more. These guidelines help ensure that enhanced devices with enhanced features are being used to enhanced user experience, such as creating shortcuts to letting people perform common tasks. These are all events that we must follow and comply with how apple wants use to use and enable.
+
+	System Capabilities covers guidelines for how you can engage a user depending on their device and supported features. This covers Augmented Reality and how to orient properly, using the device camera to present the world on the screen. They even go in as much depth as to how objects reflect on certain surfaces and how audio enhance the experience, minimizing text environment. The Capabilities of multi tasking, multiple windows, notification, printing, quick look, ratings reviews, screenshots, tv providers. Apple wants these things to be done in certain ways and at certain times. Try to limit asking the user to rate and review your application, keeping the user interacting and attracted to your app means do not be a pest!
+
+	Apple has guidelines for all aspects, virtual design, icons, bars, views, controls and extensions. Use the guidelines provided by apple Human Interface Guidelines to maximize your chances of launching a successful app on Apple Store. Creating a rich environment and painting the standards App has created which contributes to much of their success.
+
+
+
+
+
+
+
